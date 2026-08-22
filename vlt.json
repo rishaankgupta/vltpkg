@@ -37,3 +37,4 @@
     "allow-scripts": "#tailwindcss, #esbuild, #node-pty"
   }
 }
+
